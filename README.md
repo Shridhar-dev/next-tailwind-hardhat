@@ -1,5 +1,5 @@
 
-# Blockcast
+# Next Tailwind Hardhat Template
 
 
 ![Banner](https://i.ibb.co/VpS7f6Q/Untitled-design-11.png)
