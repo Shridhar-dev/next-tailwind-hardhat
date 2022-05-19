@@ -22,8 +22,8 @@ A simple template, having Next.js, Tailwind and Hardhat preconfigured 🔥
 ## Get Started
 
 ```sh
-git clone https://github.com/Shridhar-dev/next-tailwind-hardhat
-cd next-tailwind-hardhat
-yarn install //This will install the dependencies 
-yarn run dev // This will start up the local server
+$ git clone https://github.com/Shridhar-dev/next-tailwind-hardhat
+$ cd next-tailwind-hardhat
+$ yarn install # This will install the dependencies 
+$ yarn run dev # This will start up the local server
 ```
